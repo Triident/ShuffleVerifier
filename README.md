@@ -72,4 +72,4 @@ Going back to our example, you can see that with the given `clientSeed`, `server
 ```
 
 ## Credits
-All credits go to [Trident](https://t.me/tridents), who developed this bot and verifier in its entirety.
+All credits go to [Trident](https://t.me/olympiian), who developed this bot and verifier in its entirety.
